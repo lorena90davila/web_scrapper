@@ -1,0 +1,11 @@
+{
+    "name": "WebScrapper",
+    "description": "Get LinkedIn Profile Data",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "./App/index.html"
+    },
+    "permissions": ["activeTab", "scripting"]
+    
+}
